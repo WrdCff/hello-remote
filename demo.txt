@@ -1,3 +1,5 @@
 Een editje om git te testen.
 
 En dit is het 2e editje op de 3e regel.
+
+En dit is een pull request van iemand anders.
